@@ -1,0 +1,2 @@
+# HSE-BreakWell
+BreakWell provides a highly customizable and accessible way for healthcare workers to utilize their precious break times to improve their wellbeing while at work. This 3 month design project was the culmination of my MSc in Digital Design &amp; Development, and done in collaboration with Siobhán Bailey, Jeremiah Almaraj, and Erica Figueiredo. All deliverables shown are my own work and contributions to the project.
